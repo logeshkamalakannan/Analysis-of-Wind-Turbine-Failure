@@ -1,6 +1,6 @@
 # 🌬️ Wind Turbine Failure Analysis using Data Analytics
 
-![Power BI Dashboard](link-to-your-dashboard-screenshot-if-any)
+![Power BI Dashboard](https://github.com/logeshkamalakannan/Analysis-of-Wind-Turbine-Failure/blob/main/windturbine(f).pbix)
 
 ## 📌 Project Overview
 This project focuses on analyzing wind turbine sensor data to uncover patterns and insights that help predict and minimize unplanned failures. It aims to support preventive maintenance by leveraging data analytics and visualization tools.
@@ -47,15 +47,15 @@ This project focuses on analyzing wind turbine sensor data to uncover patterns a
 
 ### 📁 Dataset
 You can find the dataset used for this project in the [`data/`](./data/) folder:  
-🔗 [`Cleaned_Dataset.csv`](./data/Cleaned_Dataset.csv)
+🔗 [`Cleaned_Dataset.csv`](https://github.com/logeshkamalakannan/Analysis-of-Wind-Turbine-Failure/blob/main/Data_Set_WT.csv)
 
 ### 🧮 SQL Queries
 All major SQL queries used for data extraction and aggregation are stored in the [`sql/`](./sql/) folder:  
-🔗 [`Queries_Used.sql`](./sql/Queries_Used.sql)
+🔗 [`Queries_Used.sql`](https://github.com/logeshkamalakannan/Analysis-of-Wind-Turbine-Failure/blob/main/Wind_Turbine(SQL).sql)
 
 ### 🐍 Python Script (Optional)
 For basic exploratory data analysis and feature analysis, Python was optionally used. Find the script in [`scripts/`](./scripts/):  
-🔗 [`exploratory_analysis.py`](./scripts/exploratory_analysis.py)
+🔗 [`exploratory_analysis.py`](https://github.com/logeshkamalakannan/Analysis-of-Wind-Turbine-Failure/blob/main/windturbine(F).py)
 
 ---
 
@@ -71,7 +71,7 @@ For basic exploratory data analysis and feature analysis, Python was optionally 
 
 ## 📬 Contact
 **Logesh Kamalakannan**  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](logeshkannan29@gmail.com)
 
 ---
 
